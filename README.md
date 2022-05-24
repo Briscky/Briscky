@@ -1,5 +1,5 @@
 -  Hi, I’m @Briscky,one ZJUer majoring in CS.
--  I’m interested in AI .
+-  I’m interested in AI,especially nlp.
 -  I’m currently learning basic courses in CS.
 -  I’m looking forward to further study in computer visualization and AI algorithm design.
 -  How to reach me : c15358508348@163.com
